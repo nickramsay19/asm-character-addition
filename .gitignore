@@ -1,0 +1,4 @@
+build/asm.o
+build/main.o
+./main
+
